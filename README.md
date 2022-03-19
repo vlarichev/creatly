@@ -1,9 +1,7 @@
-- vorlage design: https://jamstackthemes.dev/demo/theme/stackbit-app-nextjs/
+# Small Side Projekt to hava a rich preview for Links
 
-- umstieg auf : jssoup
+> Insert Link -> Get a Text Summary and relevant Hastags to copy-paste
 
-- alles 💩 -> veilleicht probieren mit "Readability.js?"
-
-- Zunächst MVP aufbauen [nur auf englisch]
-- machbarkeit zeigen
-- Virutelle Homepage aufbauen, auch wenn das Projekt 💩 ist
+- [x] direct HTML Parsing -> 💩
+- [x] using jssoup for better HTML Parsing -> 💩
+- [ ] try to use Readability.js as base? 🤔
